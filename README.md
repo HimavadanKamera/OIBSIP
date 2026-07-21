@@ -1,6 +1,6 @@
 # OIBSIP - Oasis Infobyte Python Internship
 
-This repository contains my Python internship projects completed during the Oasis Infobyte Internship.
+This repository contains my Python internship projects completed during the Oasis Infobyte Python Programming Internship.
 
 ## Completed Projects
 
@@ -14,11 +14,14 @@ This repository contains my Python internship projects completed during the Oasi
 - Secure password generation using `secrets`
 - Password strength indicator
 - Copy to Clipboard
-- Password history
+- Password History
 
-### Upcoming
-
-- Task 4 - Advanced Weather App
+### Task 5 - Chat Application
+- Real-time messaging using Python sockets
+- Multi-client communication
+- Timestamped messages
+- Thread-based client handling
+- Graceful disconnect support
 
 ## Technologies Used
 
@@ -26,8 +29,20 @@ This repository contains my Python internship projects completed during the Oasi
 - Tkinter
 - SQLite
 - Matplotlib
+- Socket Programming
+- Threading
 - Pyperclip
+
+## Repository Structure
+
+```
+OIBSIP/
+├── Task2_BMI_Calculator/
+├── Task3_Password_Generator/
+├── Task5_Chat_Application/
+└── README.md
+```
 
 ## Author
 
-Himavadan Kamera
+**Himavadan Kamera**
